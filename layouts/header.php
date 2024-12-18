@@ -2,9 +2,10 @@
 <html>
 <head>
   
-  <meta charset="utf-8">
+  <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="insight-app-sec-validation" content="804c2235-b3b0-44ea-9ab1-e24871b45da0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="insight-app-sec-validation" content="e113292a-43e7-4f2d-9ffd-bddba1938a59">
   <title>validation</title>
   <title>Viết bào pr bản thân, nâng tầm thương hiệu</title>
   <!-- Tell the browser to be responsive to screen width -->
