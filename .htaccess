@@ -1,0 +1,16 @@
+RewriteEngine On
+
+# Existing rewrite rules
+
+# Homepage
+RewriteRule ^home$ index.php [L]
+RewriteRule ^([a-zA-Z0-9_-]+)$ view_news.php?slug=$1 [L]
+# Disable directory listings
+Options -Indexes
+
+# Allow all
+Require all granted
+
+# Custom error documents
+ErrorDocument 404 /error/404.html
+ErrorDocument 403 /error/403.html
